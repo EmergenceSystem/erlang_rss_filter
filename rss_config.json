@@ -1,0 +1,7 @@
+{
+    "rss_feeds": [
+        "https://planet.erlang.org/rss20.xml",
+        "https://elixirforum.com/latest.rss",
+        "https://erlangforums.com/latest.rss"
+    ]
+}
